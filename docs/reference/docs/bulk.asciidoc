@@ -4,7 +4,7 @@
 <titleabbrev>Bulk</titleabbrev>
 ++++
 
-Performs multiple indexing or delete operations in a single API call. 
+Performs multiple indexing, creating, deleting, or update operations in a single API call. 
 This reduces overhead and can greatly increase indexing speed.
 
 [source,console]
